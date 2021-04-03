@@ -1,6 +1,4 @@
-import math
-import random
-import emoji
+###### Módulos
 
 # import ...
 # from ... import ...
@@ -12,7 +10,7 @@ import emoji
 # sqrt - Raíz quadrada
 # factorial - Fatorial
 
-#######################
+----------
 
 # len() - Quantidade de caracteres
 # count('', 0, 1) - Quantidade de caractere específico - 'caractere', valor de inicio, valor final.

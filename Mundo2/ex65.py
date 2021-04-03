@@ -19,4 +19,4 @@ while stay not in 'nN':
     while stay not in 'nNsS':
         stay = str(input('Por favor, apenas "S" ou "N"\nQuer continuar? [S/N] ')).strip() 
         
-print('\nVocê digitou {} números.\nA média: {:.2f}.\nO maior valor: {}.\nO menor valor: {}.\n'.format(c, s / c, big, low))
+print(f'\nVocê digitou {c} números.\nA média: {s / c:.2f}.\nO maior valor: {big}.\nO menor valor: {low}\n')

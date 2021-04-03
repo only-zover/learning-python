@@ -1,6 +1,3 @@
-name = input('Name')
-print('Welcome, {}\nNew line'.format(name),end = ' - ')
-print('xD')
 # : repetição 
 # ^ centralização 
 # >, < direção
